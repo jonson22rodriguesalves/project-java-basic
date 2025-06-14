@@ -1,4 +1,4 @@
-package quadrado;
+package figuras;
 
 import java.util.Scanner; // Importa a classe Scanner para leitura de entrada do usuário
 
